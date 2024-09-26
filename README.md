@@ -13,6 +13,23 @@ but if it goes longer than 8 we'll charge them an extra $5 up to a length of 16.
 you should persist their order on the server and allow the user to retrieve it even when they refresh
 the page.
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 
@@ -31,4 +48,6 @@ the page.
 
 
 
+
+                     
 Just kidding. Do you think I did this challenge? LOL. Its an interview for a company.
