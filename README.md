@@ -47,7 +47,3 @@ the page.
 
 
 
-
-
-                     
-Just kidding. Do you think I did this challenge? LOL. Its an interview for a company.
